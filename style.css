@@ -799,6 +799,9 @@ input[type="submit"]:hover {
   position: relative;
   z-index: 2;
 }
+.insight-img-wpr img.lrg-img {
+  top: -75px;
+}
 .insight-bg-shape {
   width: 500px;
   height: 500px;
